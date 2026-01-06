@@ -42,4 +42,10 @@ o maior valor encontrado.
 - Requisitos atendidos
 - Organização do código
 - Uso correto do Git
+
 Projeto em andamento para prática de Git e GitHub.
+
+## Status do Projeto
+
+Estrutura inicial criada para simulação de projeto avaliativo da Trybe.
+
